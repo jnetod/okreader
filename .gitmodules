@@ -1,9 +1,9 @@
 [submodule "src/linux"]
 	path = src/linux
-	url = git@github.com:lgeek/linux-okreader.git
+	url = https://github.com/lgeek/linux-okreader.git
 [submodule "src/koreader"]
 	path = src/koreader
-	url = git@github.com:lgeek/koreader.git
+	url = https://github.com/lgeek/koreader.git
 [submodule "src/u-boot"]
 	path = src/u-boot
-	url = git@github.com:lgeek/u-boot-okreader.git
+	url = https://github.com/lgeek/u-boot-okreader.git
